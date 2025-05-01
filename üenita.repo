@@ -1,0 +1,8 @@
+{
+  "name": "Benita",
+  "description": "Kick.com canlı yayınlar, geçmiş yayınlar ve arama destekli eklenti.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://github.com/BntBenita/KLaus/releases/download/v1.0/KickPlugin.cs3"
+  ]
+}
